@@ -86,8 +86,8 @@ The exact numbers are in [`results/model_comparison.csv`](results/model_comparis
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone [https://github.com/MACBETH-MENSAH/CDSS_mac.git]
+cd CDSS_mac
 
 # 2. (Recommended) create a virtual environment
 python3 -m venv venv
