@@ -1,0 +1,9 @@
+{
+  "dataset": "Wisconsin Diagnostic Breast Cancer (sklearn built-in, UCI ML Repository)",
+  "n_samples": 569,
+  "n_features": 30,
+  "train_size": 455,
+  "test_size": 114,
+  "positive_rate_pct": 37.26,
+  "best_model_by_f1": "SVM (RBF)"
+}
